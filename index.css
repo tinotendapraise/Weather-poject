@@ -32,4 +32,6 @@ body {
   position: absolute;
   right: 800px;
   top: 90px;
+  font-size: 30px;
+  font-weight: bold;
 }
