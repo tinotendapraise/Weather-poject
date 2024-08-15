@@ -3,7 +3,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 a {
-  color: blueviolet;
+  color: rgb(226, 43, 110);
 }
 
 .weather-app {
@@ -72,6 +72,9 @@ main {
 .weather-app-unit {
   font-size: 28px;
   margin-top: 38px;
+}
+strong {
+  color: blueviolet;
 }
 
 footer {
